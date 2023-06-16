@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  height: 50vh;
+  width: 35vw;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+}
+.heading {
+  color: #0f172a;
+  font-size: medium;
+}
+.para {
+  color: #334155;
+}
+.button {
+  height: 5vh;
+  width: 10vw;
+  background-color: white;
+  color: #1e293b;
+  border-radius: 8px;
+}
+.line {
+  color: #1e293b;
+}
